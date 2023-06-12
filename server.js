@@ -5,7 +5,6 @@ import AuthRoute from "./routes/AuthRoute";
 import cors from 'cors'
 import ProductRoute from "./routes/ProductRoute";
 import path from 'path'
-import "./client/dist"
 
 connectDB();
 
