@@ -1,0 +1,49 @@
+[
+{
+        "title": "Men Checkered Double Breasted Formal Blazer  (Blue)",
+        "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur, similique",
+        "img": "https://rukminim1.flixcart.com/image/832/832/xif0q/blazer/c/9/u/46-rmjx02350-b7-raymond-original-imagmcxvthfxzwb2.jpeg?q=70",
+        "categories": ["men"],
+        "size": ["M","L","XL", "XXL" ],
+        "color": [ "blue"],
+        "price": 599,
+        "inStock": true
+      
+},
+{
+    
+        "title": "Men Skinny Mid Rise Dark Blue Jeans",
+        "desc": "Jeans is very poor and fabric is also very poor.Not worth .",
+        "img": "https://rukminim1.flixcart.com/image/832/832/xif0q/jean/y/l/u/32-ecskn-01bb-120-spykar-original-imaggfadhcxmmghb.jpeg?q=70",
+        "categories": [  "men","jeans"],
+        "size": ["M", "XL"],
+        "price": 125
+},
+       
+{
+    "title": "Men Solid Round Neck Black T-Shirt",
+    "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur, similique?",
+    "img": "https://rukminim1.flixcart.com/image/612/612/kr58yvk0/t-shirt/c/n/k/m-r-hf-451-black-london-hills-original-imag4ztguqrkfsec.jpeg?q=70",
+    "categories": [ "men" ],
+    "size": [  "M" ],
+    "price": 125
+  
+  },
+  {
+    "title": "Men Regular Fit Solid Spread Collar Formal Shirt",
+    "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur, similique",
+    "img": "https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/k/g/1/l-fbrml-r-fibermill-original-imagjfk6ytwytyg3.jpeg?q=70",
+    "categories": ["men"],
+    "size": [ "M",  "L", "XL", "XXL" ],
+    "price": 665
+  
+  },
+  {
+    "title": "Women Printed Round Neck Multicolor T-Shirt",
+    "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur, similique",
+    "img": "https://rukminim1.flixcart.com/image/832/832/l432ikw0/t-shirt/g/f/x/m-dinosor-m-jannie-hustler-original-imagffzwbujgmwhf.jpeg?q=70",
+    "categories": [ "women" ],
+    "size": [ "M", "L","XL","XS"],
+    "price": 335
+}
+]
